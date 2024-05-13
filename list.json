@@ -1,0 +1,17 @@
+{
+    "user1":{
+        "name":"smit",
+        "password":"smitsoni",
+        "id":"1"
+    },
+    "user2":{
+        "name":"karan",
+        "password":"karansoni",
+        "id":"2"
+    },
+    "user3":{
+        "name":"parth",
+        "password":"parthsoni",
+        "id":"3"
+    }
+}
